@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"intelliQ-demo.users"},{"v":2,"unique":true,"key":{"mobile":1},"name":"mobile_1","ns":"intelliQ-demo.users"}],"uuid":"c8d07dc51f814814b3e04cecf206106f"}

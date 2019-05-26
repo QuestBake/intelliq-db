@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"intelliQ-demo.schools"},{"v":2,"unique":true,"key":{"code":1},"name":"code_1","ns":"intelliQ-demo.schools"}],"uuid":"b6a222c491ef42a589d529009d9f2d2b"}

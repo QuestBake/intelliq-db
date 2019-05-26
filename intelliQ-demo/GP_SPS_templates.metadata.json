@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"intelliQ-demo.GP_SPS_templates"},{"v":2,"unique":true,"key":{"criteria512Hash":1},"name":"criteria512Hash_1","ns":"intelliQ-demo.GP_SPS_templates"}],"uuid":"5a11dc526e4e4a64bebd823297a7e01f"}
